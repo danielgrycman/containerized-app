@@ -1,2 +1,2 @@
-# containerized-publisher
-Container image for speedata publisher
+# containerized-app
+Container image for Agile Publishing Platform
